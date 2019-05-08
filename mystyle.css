@@ -21,9 +21,20 @@
 .h1{
   display: block;
   margin: 10px auto auto auto;
+  font-family: 'Courier';
   padding: 0 20px;
   max-width: 460px;
   color: #ffffff;
   font-size: 22px;
   text-align: center; }
+
+  body, html {
+    margin: 0;
+    padding: 60px;
+    font-family: 'Roboto Mono', "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 13px;
+    line-height: 22px;
+    color: #111;
+    background-color: #fff;
+}
 
